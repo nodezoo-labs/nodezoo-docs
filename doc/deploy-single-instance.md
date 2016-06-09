@@ -14,7 +14,7 @@ Also in this repository you can find additional notes how to deply the NodeZoo a
 
  * first clone the [NodeZoo System](https://github.com/nodezoo/nodezoo-system) repository
  
-```sh
+```
 git clone https://github.com/nodezoo/nodezoo-system.git
 cd nodezoo-system
 ```
