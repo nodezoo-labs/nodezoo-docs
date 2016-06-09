@@ -9,10 +9,12 @@ Welcome to NodeZoo wiki. Please choose your topic below.
  * [What is NodeZoo](./doc/what-nodezoo.md)
  * [Microservices](./doc/microservices.md)
 
-**Deploy application**
+**Deploying application**
 
  * [Deploy NodeZoo on same instance](./doc/deploy-single-instance.md)
  * [Terraform Deploy NodeZoo on AWS](./doc/terraform-deploy.md)
+ * [Centralised logs]()
+ * [Monitoring Docker containers]()
 
 **Architecture**
 
