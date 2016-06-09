@@ -12,7 +12,7 @@ Welcome to NodeZoo wiki. Please choose your topic below.
 **Deploy application**
 
  * [Deploy NodeZoo on same instance](./doc/deploy-single-instance.md)
- * [Terraform Deploy NodeZoo on AWS](./doc/deploy-terraform.md)
+ * [Terraform Deploy NodeZoo on AWS](./doc/terraform-deploy.md)
 
 **Architecture**
 
