@@ -25,6 +25,7 @@ Other useful repositories:
  * [System](https://github.com/nodezoo/nodezoo-system) - Shows how to deploy locally NodeZoo application - production or development environments
  * [Terraform](https://github.com/nodezoo/nodezoo-terraform) - Contains Terraform configuration files for deploying NodeZoo on AWS, each microservice in a Docker container, in separate instances.
  * [Org](https://github.com/nodezoo/nodezoo-org) - A place for org resources and discussions around Nodezoo.
+ * [Docs](https://github.com/nodezoo/nodezoo-docs) - This Wiki.
  
 
 
