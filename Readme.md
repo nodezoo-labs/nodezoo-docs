@@ -24,7 +24,6 @@ Welcome to NodeZoo wiki. Please choose your topic below.
 Project sponsored by [nearForm][Sponsor]
 
 ### License
-Copyright (c) 2016, Dean McDonnell and other contributors.
 Licensed under [MIT][Lic].
 
 
