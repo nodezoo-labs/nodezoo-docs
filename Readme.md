@@ -13,7 +13,7 @@ Welcome to NodeZoo wiki. Please choose your topic below.
 
  * [Deploy NodeZoo on same instance](./doc/deploy-single-instance.md)
  * [Terraform Deploy NodeZoo on AWS](./doc/terraform-deploy.md)
- * [Centralised logs]()
+ * [Centralized logs]()
  * [Monitoring Docker containers]()
 
 **Architecture**
