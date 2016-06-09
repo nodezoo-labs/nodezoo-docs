@@ -4,10 +4,7 @@ Back to [TOC](../Readme.md)
 
 # What is NodeZoo
 
-Nodezoo is a search engine for node modules. The full system currently fetches data from NPM, Github and Travis-CI. It is an example of a real-world service built using
-Node.js micro-services. Each micro-service is published in its own github repository along with all
-of the necessary config to run the system locally or live . The codebase is intended to be used as
-an example, and as a starting point for your own projects.
+Nodezoo is a search engine for node modules. The full system currently fetches data from NPM, Github, Coveralls and Travis-CI. It is an example of a real-world service built using Node.js micro-services. Each micro-service is published in its own github repository along with all of the necessary config to run the system locally or live . The codebase is intended to be used as an example, and as a starting point for your own projects.
 
 # NodeZoo Microservices
 
